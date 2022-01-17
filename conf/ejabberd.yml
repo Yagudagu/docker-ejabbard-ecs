@@ -16,7 +16,7 @@
 
 hosts:
   - localhost
-  - jacmarejabberd.westus2.azurecontainer.io
+  - jacmarejabbard.happysand-811cecbb.eastus.azurecontainerapps.io
 
 loglevel: 4
 log_rotate_size: 10485760
